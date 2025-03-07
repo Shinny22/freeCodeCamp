@@ -1,11 +1,7 @@
 import numpy as np
 
 def calculate(list):
-    """
-    Cette fonction prend une liste de nombres et renvoie un dictionnaire contenant les calculs suivants :
-    - La somme de tous les nombres
-    - La moyenne de tous les nombres
-    - Le nombre maximum"""
+  
 
     if len(list) >= 9:
 
